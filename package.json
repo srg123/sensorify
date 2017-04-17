@@ -1,8 +1,20 @@
 {
-  "name": "censorify",
+  "author":"srg",
+  "name": "censorify2",
   "version": "1.0.0",
   "description": "this is my pro",
-  "main": "censortext.js",
+  "main": "censorrify2.js",
+  "repository":{
+    "type":"git",
+    "url": "https://github.com/srg123/sensorify"
+  },
+  "keywords": [
+    "censor",
+    "words"
+  ],
+  "dependencies": {
+
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
